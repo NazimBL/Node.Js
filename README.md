@@ -1,2 +1,2 @@
 # Node-Js
-Node Js Scripts
+simple Node-js serial port =)
